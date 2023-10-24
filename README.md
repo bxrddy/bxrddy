@@ -1,22 +1,14 @@
-Hello, I'm Brijesh! &nbsp;👋
+Hello, I'm Brijesh! &nbsp;👋🏽
 ========================
 
-Analyst (Business & Data)
+Analyst &nbsp;|&nbsp; Product Designer
 -------------------------
 
-I have honed my skills in project methodologies such as Agile SCRUM, Waterfall, and RUP and technical skills in SQL, Python, and Tableau. Leveraging tools like JIRA, I have optimized bug-tracking processes and enhanced team productivity, ensuring smooth project delivery across multiple systems.
+I have honed my skills in project methodologies such as Agile SCRUM, Waterfall, and RUP and technical skills in SQL, Python, and Tableau. Leveraging tools like JIRA, I have optimized bug-tracking processes and enhanced team productivity, ensuring smooth project delivery across multiple systems. I've also cultivated a strong foundation in Product Design (UI/UX). My journey intertwines analytics with a user-centric design ethos. This blend of analytics and design focus propels me to drive projects that resonate well with both stakeholders and end-users.
 
-*  🌍  I'm based in Dallas, Texas
-*  🖥️  See my portfolio at [Portfolio Website](http://brijesh097.wixsite.com/portfolio)
-*  🚀  I'm currently working on [Python Projects](http://github.com/bxrddy/py-prog)
-*  🧠  I'm learning Data Analysis & Visualization
+*  🌍  I'm based in Pittsburgh, Pennsylvania
+*  🖥️  See my design portfolio at [Product Design Portfolio @ Notion](https://brddy.notion.site/Brijesh-s-Portfolio-b7c3eae4365a47198d2e0df883cf496b?pvs=4)
+*  🚀  I develop [Python Projects](http://github.com/bxrddy/py-prog) once in a while
+*  🧠  I'm enhancing my [Figma](https://www.figma.com/) skills and learning [PyTorch](https://pytorch.org/) whenever I get a chance
 
-### Socials
-                  
-<a href="https://www.github.com/bxrddy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>&nbsp;<a href="https://www.linkedin.com/in/brddy/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Skills & Specialization
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;&nbsp;&nbsp;<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>&nbsp;&nbsp;&nbsp;<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+-------------------------
